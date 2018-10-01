@@ -8,4 +8,5 @@
   <li>Just clone this repo</li>
   <li>You must install mongodb</li>
   <li>Run npm install </li>
+  <li>Just Run npm start</li>
   </ul>
