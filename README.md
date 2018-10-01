@@ -6,5 +6,6 @@
 
 <ul>
   <li>Just clone this repo</li>
+  <li>You must install mongodb</li>
   <li>Run npm install </li>
   </ul>
