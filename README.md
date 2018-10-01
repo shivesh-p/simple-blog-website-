@@ -6,4 +6,5 @@
 
 <ul>
   <li>Just clone this repo</li>
+  <li>Run npm install </li>
   </ul>
